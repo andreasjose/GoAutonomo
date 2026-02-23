@@ -110,6 +110,8 @@ Expansão gradual após validação do modelo.
 
 Desenvolvimento independente.
 
+Aplicativo Android utilizando Firebase Authentication para controle de sessão e autenticação de usuários.
+
 Versão Beta em construção.
 
 Foco em validação de produto e aderência ao mercado.
