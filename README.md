@@ -112,6 +112,8 @@ Desenvolvimento independente.
 
 Aplicativo Android utilizando Firebase Authentication para controle de sessão e autenticação de usuários.
 
+Aplicativo Utilizando railway para hospedar o backend.
+
 Versão Beta em construção.
 
 Foco em validação de produto e aderência ao mercado.
